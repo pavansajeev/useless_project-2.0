@@ -46,7 +46,7 @@ flutter run
 
 # Project Demo
 ## Video
-<video controls src="WhatsApp Video 2025-08-09 at 06.03.59_ba8f82d0.mp4" title="Title"></video>
+[Google Drive Video](https://drive.google.com/file/d/19LJNfZvgiz_UPr46jpcJV5zFXSchBAn1/view?usp=drivesdk)
 
 ## Download app
 [Download APK][https://drive.google.com/file/d/19Kpu5hl1i4af4qC5-rLtcRSzny_Q5BTx/view?usp=drivesdk]
