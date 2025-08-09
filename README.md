@@ -47,6 +47,16 @@ flutter run
 # Project Demo
 ## Video
 [Google Drive Video](https://drive.google.com/file/d/19LJNfZvgiz_UPr46jpcJV5zFXSchBAn1/view?usp=drivesdk)
+This is a light-hearted virtual plant watering app made purely for fun.
+You can increase the water level using the Water button, but over time, the water level decreases on its own. As it drops, the plant goes through three transitions:
+
+🌱 Happy (well-watered)
+
+🥀 Weak (needs water)
+
+💀 Dead (too late!)
+
+Each transition is paired with matching background audio for extra fun. Think of it as a silly mini-game for bored moments!
 
 ## Download app
 [Download APK][https://drive.google.com/file/d/19Kpu5hl1i4af4qC5-rLtcRSzny_Q5BTx/view?usp=drivesdk]
